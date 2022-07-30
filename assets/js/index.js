@@ -1,11 +1,7 @@
 const toCheck = {
-  "api-v1": {
-    name: "API v1",
-    url: "https://iamages.uber.space/iamages/api"
-  },
-  "api-v2": {
-    name: "API v2",
-    url: "https://iamages.uber.space/iamages/api/v2"
+  "api-v3": {
+    name: "API v3",
+    url: "https://iamages.uber.space/iamages/api/v3"
   },
   "web": {
     name: "Web",
@@ -16,8 +12,8 @@ const toCheck = {
     url: "https://iamages.github.io/web-drop"
   },
   "apple": {
-    name: "iOS/Catalyst",
-    url: "https://apps.apple.com/my/app/iamages/id1550945817"
+    name: "iOS/macOS",
+    url: "https://apps.apple.com/au/app/iamages/id1611306062"
   },
   "discord-bot": {
     name: "Discord Bot",
